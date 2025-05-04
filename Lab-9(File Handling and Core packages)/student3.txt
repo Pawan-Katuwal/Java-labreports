@@ -1,0 +1,3 @@
+1, Bipin, Kritipur, 9841000001
+2, Sita, Bhaktapur, 9841000002
+3, Nabin, Kritipur, 9841000003
